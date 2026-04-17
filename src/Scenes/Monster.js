@@ -6,7 +6,6 @@ class Monster extends Phaser.Scene {
         //Create constants for the monster location
         this.bodyX = 300;
         this.bodyY = 350;
-        
     }
 
     // Use preload to load art and sound assets before the scene starts running.
